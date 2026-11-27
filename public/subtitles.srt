@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:04,800
+Bagaimana dunia terlihat dari sudut pandang manusia?
+
+2
+00:00:05,000 --> 00:00:09,900
+Egocentric Video merekam aktivitas langsung dari perspektif orang pertama,
+menangkap interaksi nyata antara manusia, objek, dan lingkungan.
+
+3
+00:00:10,000 --> 00:00:14,900
+Perspektif ini menghadirkan konteks aktivitas, urutan tindakan,
+dan detail interaksi yang sulit terlihat dari kamera biasa.
+
+4
+00:00:15,000 --> 00:00:20,900
+EgvoX menghubungkan video contributors, data annotators,
+dan quality assurance untuk menghasilkan dataset yang terstruktur dan terverifikasi.
+
+5
+00:00:21,000 --> 00:00:25,900
+Dari aktivitas nyata menjadi data berkualitas,
+siap digunakan untuk kebutuhan pengembangan teknologi.
+
+6
+00:00:26,000 --> 00:00:30,000
+EgvoX. Capturing Human Experience, Delivering Quality Data.
